@@ -12,3 +12,6 @@ Input:
 The first line of the input is the marks of the five subjects mentioned above, respectively.
 Output:
 Print the result in 2 decimal places.
+
+Practice Problem 3:>
+John's teacher gave him two variables. Each variable contains a string. John's teacher asked him to combine these two strings and print them in one line. Help John write the program.
